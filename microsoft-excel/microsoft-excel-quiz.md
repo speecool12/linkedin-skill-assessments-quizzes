@@ -840,3 +840,10 @@
 - [ ] ROUND
 - [ ] ISERROR
 - [ ] DIVIDE
+
+#### Q103. There are several cells in a single row across a range of columns. Which formula calculates the total value of these cells ?
+
+- [ ] =SUM (C15:Y15)
+- [ ] =SUM (15L:15Z)
+- [x] =SUM (C11:C35)
+- [ ] =SUBTOTAL (C1:Y15)
